@@ -2,7 +2,8 @@
 # Домашнее задание к занятию «1.1. Введение в DevOps»
 
 ## Задание №1 - Подготовка рабочей среды
-![alt text](sysadm-homeworks/01-intro-01/netology.jsonnet.png)
+![изображение](https://user-images.githubusercontent.com/94983313/144149701-0dfce3df-b494-4839-a734-d3dc52b87df8.png)
+
 
 ## Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
 
