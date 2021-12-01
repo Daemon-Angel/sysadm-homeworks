@@ -6,6 +6,9 @@
 
 ![изображение](https://user-images.githubusercontent.com/94983313/144149780-c17544b0-f892-4b4c-92ec-3fca85078f71.png)
 
+![изображение](https://user-images.githubusercontent.com/94983313/144149873-e374a512-80ee-4137-a88c-4723ff18e43c.png)
+
+
 
 
 ## Задание №2 - Описание жизненного цикла задачи (разработки нового функционала)
